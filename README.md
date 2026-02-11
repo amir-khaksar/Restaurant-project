@@ -52,8 +52,8 @@ This project was created to practice:
 
 ## 🚀 Demo Preview
 
-![Preview](./Restaurant%20project/img/preview1.png)
-![Preview](./Restaurant%20project/img/preview2.png)
-![Preview](./Restaurant%20project/img/preview3.png)
+![Preview](./Restaurant-project/img/preview1.png)
+![Preview](./Restaurant-project/img/preview2.png)
+![Preview](./Restaurant-project/img/preview3.png)
 
 ```
