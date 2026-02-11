@@ -38,6 +38,7 @@ git clone https://github.com/amir-khaksar/Restaurant-project.git
 No dependencies or installation required.
 
 ---
+```
 
 ## 🎯 Purpose of This Project
 
@@ -49,8 +50,6 @@ This project was created to practice:
 - Clean UI implementation
 
 ---
-
-```
 
 ## 🚀 Demo Preview
 
