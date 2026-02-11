@@ -763,3 +763,7 @@ footer{
 .link_footer ul li a{
     color: inherit;
 }
+
+.finish-outline:focus{
+    outline: none;
+}
